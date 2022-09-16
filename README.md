@@ -1,7 +1,8 @@
-### "Whats UP!👋
+### "Whats UP?👋
 
-I'm Thiago Braga, a new developer under love white JS.
+Me chamo Thiago e sou um desenvolvedor web.
 
-Would you like to find me?
+Apaixonado por JavaScript, ampliando os conhecimentos com ReactJS, NodeJS, e logo mais NextJS.
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-pinto-braga)](http://www.linkedin.com/in/thiago-pinto-braga)
