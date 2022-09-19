@@ -1,4 +1,4 @@
-### "Whats UP?👋
+# "Whats UP?👋
 
 Me chamo Thiago e sou um desenvolvedor web.
 
